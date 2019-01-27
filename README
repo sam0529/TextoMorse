@@ -1,0 +1,11 @@
+Nombre: Samuel Villanueva Domínguez
+Correo electrónico: samuelvillanuevadominguez@gmail.com
+
+Ejecutar la clase con nombre morse que se encuentra en la ruta TextoMorse/src/
+1.seleccionar el tipo de traducción que desee.
+	Caso 1: Texto a código morse
+2.Introducir un texto.
+3.Verificar código morse arrojado.
+ 	Caso 2: Código morse a Texto
+4.Introducir código morse basándose en la lista.
+5.Verificar texto.
